@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Toby1219
 - 👀 I’m interested in web scraping and crawling of links, creation of api, web automation, bug bounty etc. 
-- 🌱 I’m currently learning python and solidity
+- 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on any project on python 
 - 📫 How to reach me emmanuelt3040@gmail.com
 - 
